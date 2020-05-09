@@ -2,7 +2,7 @@
 @import url('https://rsms.me/inter/inter.css');
 
 body {
-  --background: #BFEDEF;
+  --background: black;
   --foreground: black;
   --test: black;
   --border: #ff6b6b;
